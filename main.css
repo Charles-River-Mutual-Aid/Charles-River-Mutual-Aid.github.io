@@ -60,7 +60,7 @@ body {
     background-color: tan;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
     #intro {
         float: none;
         width: 100%;
