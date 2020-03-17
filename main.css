@@ -47,6 +47,11 @@ p {
     font-family: 'Noto Serif', sans-serif;
 }
 
+#introDiv p {
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+
 #titleBar {
     width: 100%;
     background-color: rgb(180, 10, 10);
